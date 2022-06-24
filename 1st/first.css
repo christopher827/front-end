@@ -1,0 +1,854 @@
+#button1{
+background-color:red;
+color:rgb(255, 255,255);
+border:none;
+width:120px;
+padding: 15px;
+border-radius: 10px;
+font-size: 15px;
+font-weight: bold;
+cursor:pointer;
+box-shadow:0 10px 10px 0 rgb(0,0,0);
+}#button1:hover{
+    transition-duration: 0.4s;
+    background-color:black;
+}
+#button2{
+    background-color: rgb(129,47, 129);
+    color:white;
+    border:none;
+    width: 100px;
+    padding: 15px;
+    border-radius: 15px;
+    cursor:pointer;
+    box-shadow:0 5px 5px 0 rgba(0,0,0,0.7);
+}
+#button2:hover{
+    transition-duration:0.6s;
+    background-color: green;
+}
+#button3{
+    background-color:blue;
+    padding:15px;
+    color: #FFFFFF;
+    border:none;
+    width: 150px;
+    border-radius: 17px;
+    font-weight:bold;
+    font-size: 15px;
+    cursor:pointer;
+    box-shadow: 7px 7px rgba(255,0,0);
+}
+#button3:hover{
+    transition-duration:1s;
+    background-color:red;
+}
+#button4{
+background-color: #FFFFFF;
+color: #00f;
+border-color:blue;
+padding:15px;
+font-size:15px; 
+cursor:pointer;
+box-shadow: 0 6px 6px 0 rgba(5,70,20,0.4);
+}
+#button4:hover{
+    transition:0.7s;
+    background-color: lightblue;
+}
+#button5{
+background-color: lightgreen;
+color: rgb(255, 255,255);
+border: none;
+padding-top: 35px;
+padding-bottom: 35px;
+border-radius: 30px;
+width: 150px;
+font-size: 55px;
+font-weight: bold;
+cursor: pointer;
+box-shadow: 0 5px 5px 0 rgba(0,0,0,0.3);
+}
+#button5:hover{
+    transition-duration: 0.1s;
+    background-color: pink;
+}
+#button6{
+    background-color: yellow;
+    border: none;
+    width: 250px;
+    padding: 13px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: lighter;
+    cursor: pointer;
+    box-shadow:0 10px 10px 0 rgba(0,0,0,0.5);
+}
+#button6:hover{
+    transition-duration: 0.2s;
+    background-color:lightgreen;
+}
+#button7{
+    background-color: rgb(84, 84, 252);
+    width: 210px;
+    border: none;
+    border-radius: 30px;
+ color: white;
+    padding: 20px;
+    font-size:18px;
+    cursor:pointer;
+    box-shadow:0 5px 10px 0 rgba(0,0,0,1);
+}
+#button7:hover{
+    transition-duration:0.5s ;
+    background-color: grey;
+}
+#button8{
+    border:none;
+    color:rgb(255,255,255);
+    background-color:rgb(0,0,0);
+    width:130px;
+    padding: 15px;
+    font-size: 15px;
+    cursor:pointer;
+    box-shadow: 0 6px 6px 0 rgba(14,56,78,0.4);
+}#button8:hover{
+    transition-duration:1s;
+    background-color:yellowgreen;
+}
+#button9{
+    background-color: rgb(46,164,79);
+    color:white;
+    border:none;
+    border-radius: 10px;
+    padding:20px;
+    width:140px;
+    font-size: 22px;
+   cursor: pointer;
+   box-shadow: 0 5px 5px 0 rgba(6, 14, 22, 0.7);
+}
+#button9:hover{
+    transition-duration: 1s;
+    background-color: rgb(56,21,16);
+}
+#button10{
+background-color: rgb(121,82,179);
+border:none;
+padding:15px;
+width: 150px;
+color: #FFFFFF;
+font-size: 15px;
+font-weight: bold;
+border-radius: 5px;
+cursor:pointer;
+box-shadow: 0 10px 10px 0 rgba(255, 50,50,0.9);
+}
+#button10:hover{
+    transition-duration: 0.3s;
+    background-color: brown;
+}
+#button11{
+background-color: #FFFFFF;
+border:none;
+border:1px solid black;
+padding:15px;
+width: 120px;
+font-size: 15px;
+cursor: pointer;
+font-size:15px;
+box-shadow:0 10px 6px 0 rgba(20,255,15,0.6) ;
+}
+#button11:hover{
+    background-color: chocolate;
+    transition-duration: 0s;
+    
+}
+#button12{
+background-color: rgb(10,102,194);
+border:none;
+padding: 15px;
+border-radius:22px;
+color:white;
+font-size: 15px;
+cursor:pointer;
+box-shadow:0 5px 5px 0 rgba(90,90,90,0.6);
+}
+#button12:hover{
+    transition-duration:0.2s;
+    background-color: gold;
+}
+#button13{
+border:none;
+border:1px solid blue;
+padding:15px;
+border-radius: 27px;
+color:blue;
+width:100px;
+font-weight:bold;
+font-size:20px;
+cursor:pointer;
+box-shadow: 0 10px 10px 0 rgba(0,0,0,0.7);
+}
+#button13:hover{
+    background-color: silver;
+    transition-duration: 1s;
+}
+nav{
+    background-color: red;
+    text-align: center;
+
+    
+}
+nav ul{
+    list-style-type:none;
+}
+nav li{
+    display: inline-block;
+    padding: 25px;
+
+
+}
+.body1{
+    background-color: black;
+}
+.button{
+    width: 200px;
+    background-color: rgb(90, 221, 90);
+    border:none;
+    padding:10px;
+    color:white;
+    border-radius: 15px;
+    cursor:pointer;
+}
+.sign{
+    text-align: center;
+}
+.free{
+    text-align: center;
+}
+#button14{
+    background-color: red;
+    color:red;
+    color: white;
+    padding:15px;
+    border:none;
+}
+#button14:hover{
+    transition-duration: 0.3s;
+    background-color:brown;
+}
+.JSbutton1{
+    background-color: white;
+    border: 1px solid orange;
+    border-radius: 15px;
+    margin-left:20px ;
+    margin-right: 20px;
+    
+}
+.spicy{
+    float: left;
+    padding: 10px;
+    border:none;
+    border-radius: 20px;
+    background-color: darkorange;
+    
+    font-weight:bold ;
+}
+.try{
+    padding: 15px;
+    margin: 50px;
+}
+.pro{
+    color: orange;
+}
+.startbutton{
+    background-color: orange;
+    border:none;
+    padding: 15px;
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-left: 50px;
+    width: 180px;
+    cursor: pointer;
+}
+.startbutton:hover{
+    transition-duration: 0.4s;
+    background-color: #000000;
+}
+.JSbody{
+    background-color: white;
+}
+.rounds{
+    float: right;
+    width: 500px;
+    height: 400px;
+    border: none;
+    border-radius: 30px;
+}
+.course{
+    float: right;
+    margin: 0;
+    border:none;
+    color: #FFFFFF;
+    background-color: darkorange;
+    padding:30px;
+    border-radius:170%;
+    margin-right:5px ;
+}
+
+<!--div{
+    background-color;
+    color: white;
+    padding: 3px;
+}-->
+.301{
+
+}
+.try{
+ 
+}
+.tatashe{
+    text-align: center;
+    margin: 0;
+}
+.iii{
+    text-align: right;
+}
+.bass{
+    color: #FFFFFF;
+}
+#bank{
+    display: block;
+}
+.chris{
+    display: inline-block;
+    vertical-align: middle;
+}
+input{
+    display: block;
+    margin-top: 5px;
+}
+p,button{
+    display: inline-block;
+}
+p{
+    font-weight: bold;
+}
+button{
+    margin-right: 5px;
+    font-weight: bold;
+}
+#place{
+    width: 300px;
+    padding: 10px;
+    border-radius: 18px;
+    padding: 10px;
+    border: none;
+    margin-bottom: 15px;
+    box-shadow: 5px 5px 5px rgb(0,0,0,0.5);
+    
+}
+#name{
+    padding: 10px;
+    border-radius: 8px;
+    border:  blue solid 0.5px;
+    display: inline-block;
+}
+#email{
+    width: 350px;
+    border-radius: 10px;
+    padding: 12px;
+    border: 0.5px black solid;
+    margin-bottom: 15px;
+}
+#ororo{
+    color: #FFFFFF;
+    background-color: blue;
+    border:none ;
+    padding: 15px;
+    width: 380px;
+    border-radius: 10px;
+    cursor:pointer;
+
+}#ororo:hover{
+    transition-duration: 0.5s;
+    background-color: black;
+}
+.up{
+    margin-top: 4px;
+    width: 320px;
+    padding: 8px;
+    border:black 0.5px solid ;
+    border-radius: 12px;
+    margin-bottom: 15px;
+    
+}
+.search{
+    width: 250px;
+    padding:5px ;
+    border:0.1px black solid;
+    border-radius: 6px;
+
+}
+.dest{
+    width: 320px;
+    padding: 7px;
+    border-radius: 10px;
+    border: #000000 0.5px solid;
+}
+.imgone,.p-one,.p-two{
+    display: block;
+}
+.p-two{
+    margin-top: 0;
+}
+.all{
+    margin-bottom: 8px;
+    margin-left: 15px;
+    border: none;
+    padding: 7px;
+    border-radius: 15px;
+    width: 45px;
+    color: black;
+    
+    cursor: pointer;  
+    box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.3);
+}
+.all{
+    transition: transform .5s;
+}
+.all:hover{
+    transform: scale(1.1);
+}
+
+#black{
+    background-color:white;
+}
+#games{
+    padding:7px;
+    border: none;
+    border-radius: 15px;
+width: 80px;
+margin-left: 7px;
+box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.2);
+}
+#games{
+    transition: transform .5s;
+}
+#games:hover{
+    transform: scale(1.1);
+}
+#music{
+    border: none;
+    padding: 7px;
+    border-radius: 15px;
+    width: 65px;
+    margin-left: 7px;
+    box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.2);
+}
+#music{
+    transition: transform .5s;
+}
+#music:hover{
+    transform: scale(1.1);
+}
+#live{
+    padding: 8px;
+  <!--  border: 0.5px solid black;-->
+    margin-left: 7px;
+    border:none;
+    border-radius:15px ;
+    width: 50px;
+    box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.3);
+}
+.live{
+    transition: transform .5s;
+}
+#live:hover{
+    transform: scale(1.1);
+}
+.Html{
+padding: 8px;
+
+border:none;
+border-radius: 15px;
+margin-left: 7px;
+width:60px;
+box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.3);
+}
+.Html{
+    transition: transform .5s;
+}
+.Html:hover{
+    transform: scale(1.1);
+}
+#comp{
+    padding: 7px ;
+    border-radius: 15px;
+    border:none;
+    margin-left: 7px;
+    box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.3);
+}
+#comp{
+    transition: transform .5s;
+}
+#comp:hover{
+    transform: scale(1.1);
+}
+.messi{
+margin-left: 7px;
+padding: 7px;
+border: none;
+border-radius: 15px;
+box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.3);
+}
+.messi{
+    transition: transform .5s;
+}
+.messi:hover{
+    transform: scale(1.1);
+}
+.zeus{
+    padding: 7px;
+    margin-left:7px ;
+    border: none;
+    border-radius:15px ;   
+    box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.3);
+    cursor: pointer;
+}
+    .zeus{
+        transition: transform .5s;
+    }
+    .zeus:hover{
+        transform: scale(1.1);
+    
+}
+.graphics{
+    padding: 10px;
+    border-radius: 15px;
+    border: none;
+    margin-bottom: 15px;
+    margin-left: 7px;
+}
+.graphics{
+    transition: transform .5s;
+}
+.graphics:hover{
+    transform: scale(1.1);
+}
+.paris{
+padding: 7px;
+margin-left: 7px;
+margin-bottom:15px ;
+border: none;
+border-radius: 15px;
+box-shadow:5px 5px 5px 5px rgb(0,0,0,0.2) ;
+}
+.paris{
+    transition: transform .5s;
+}
+.paris:hover{
+    transform: scale(1.1);
+}
+.sport{
+
+border:none;
+border-radius: 15px;
+padding: 7px;
+box-shadow:5px 5px 5px 5px rgb(0,0,0,0.1);
+
+}
+.sport{
+    transition: transform .5s;
+}
+.sport:hover{
+    transform: scale(1.1);
+}
+.goal{
+    
+padding: 7px;
+margin-left: 7px;
+margin-bottom:15px ;
+border: none;
+border-radius: 15px;
+box-shadow:5px 5px 5px 5px rgb(0,0,0,0.2) ;
+}
+.goal{
+    transition: transform .5s;
+}
+.goal:hover{
+    transform: scale(1.1);
+}
+.premier{
+    
+padding: 7px;
+margin-left: 7px;
+margin-bottom:15px ;
+border: none;
+border-radius: 15px; 
+box-shadow:5px 5px 5px 5px rgb(0,0,0,0.2) ;
+}
+.premier{
+    transition: transform .5s;
+}
+.premier:hover{
+    transform: scale(1.1);
+}
+.goo{
+    margin-left: 290px;
+    width: 500px;
+    padding: 10px;
+    border-radius: 12px;
+    border: none;
+    box-shadow: 5px 5px 5px 5px rgb(0,0,0,0.2);
+}
+
+
+.hidden{
+    border: none;
+    width: 300px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+.j,.p{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#reg{
+padding: 10px;
+border: none;
+}
+.play,.you,.ng,.luope,.make,.fone,.sick,.hundred,.menu-bar,.burger{
+    display: inline-block;
+   <!-- margin-top: 0;-->
+}
+.make{
+    margin-left: 270px;
+    width:390px ;
+    padding: 8px;
+    margin-right: 0;
+}
+
+.make{
+    transition: transform .5s;
+}
+.make:hover{
+    transform: scale(1.1);
+}
+
+.luope{
+    margin-bottom: 0;
+    border: 3px solid black;
+}
+
+.luope{
+    transition: transform .5s;
+}
+.luope:hover{
+    transform: scale(1.9);
+}
+
+#die{
+padding-bottom: 7px;
+}
+.fone1{
+    border: 0.5px white solid;
+    padding: 6px;
+    border-radius: 20px;
+}
+
+.foneone{
+    transition: transform .5s;
+}
+.fone:hover{
+    transform: scale(1.5);
+}
+.sick{
+    width: 35px;
+    height: 35px;
+    margin-left: 1px;
+    border-radius: 15px;
+}
+
+.sick{
+    transition: transform .5s;
+}
+.sick:hover{
+    transform: scale(1.3);
+}
+
+.hundred{
+    margin-left: 20px;
+    width: 30px;
+    margin-right: 15px;
+}
+
+.hundred{
+    transition: transform .5s;
+}
+.hundred:hover{
+    transform: scale(1.5);
+}
+
+.menu-bar{
+    width: 30px;
+    margin-left: 220px;
+}
+
+.menu-bar{
+    transition: transform .5s;
+}
+.menu-bar:hover{
+    transform: scale(1.3);
+}
+
+.play{
+    border: 0.5px black solid;
+    padding: 5px;
+    color: #FFFFFF;
+    background-color: red;
+    border: none;
+    width: 18px;
+    border-radius: 10px;
+    padding-left: 10px;
+    
+}
+.burger{
+    margin-left: 5px;
+    margin-right: 8px;
+}
+
+.burger{
+    transition: transform .5s;
+}
+.burger:hover{
+    transform: scale(1.4);
+}
+
+.you{
+    color: black;
+    font-size: 17px;
+    margin-left: 3px;
+}
+.imgone,.imgtwo,.imgthree{
+    display: inline-block;
+}
+.imgone{
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.imgone{
+    transition: transform .5s;
+}
+.imgone:hover{
+    transform: scale(1.1);
+}
+.imgtwo{
+    margin-left: 12px;
+    margin-top: 5px;
+}
+.imgtwo{
+    transition: transform .5s;
+}
+.imgtwo:hover{
+    transform: scale(1.1);
+}
+.imgthree{
+    margin-left: 12px;
+}
+
+.imgthree{
+    transition: transform .5s;
+}
+.imgthree:hover{
+    transform: scale(1.1);
+}
+.imgfour{
+    margin-left: 40px;
+    margin-top: 25px;
+}
+
+.imgfour{
+    transition: transform .5s;
+}
+.imgfour:hover{
+    transform: scale(1.1);
+}
+.imgfive{
+    margin-left:12px ;
+}
+
+.imgfive{
+    transition: transform .5s;
+}
+.imgfive:hover{
+    transform: scale(1.1);
+}
+.imgsix{
+    margin-left: 12px;
+}
+
+.imgsix{
+    transition: transform .5s;
+}
+.imgsix:hover{
+    transform: scale(1.1);
+}
+.imgseven{
+    margin-left: 40px;
+    margin-top: 25px;
+}
+
+.imgseven{
+    transition: transform .5s;
+}
+.imgseven:hover{
+    transform: scale(1.1);
+}
+.imgeight{
+    margin-left: 12px;
+}
+
+.imgeight{
+    transition: transform .5s;
+}
+.imgeight:hover{
+    transform: scale(1.1);
+}
+.imgnine{
+
+    margin-left:12px ;
+}
+
+.imgnine{
+    transition: transform .5s;
+}
+.imgnine:hover{
+    transform: scale(1.1);
+}
+.chair1,.chair2{
+    display: block;
+}
+.chair3,.chair4{
+    display: block;
+}
+.chair1,.chair2,.chair3,.chair4{
+    display: inline-block;
+}
+footer{
+    text-align: center;
+    padding: 10px;
+    font-family: arial;
+    font-size: 17px;
+    background: #594848;
+    font-weight: bold;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+}
+.pictures{
+    display: grid;
+    grid-template-columns: 100px 100px;
+}
+<!--.1password@987.@-->
